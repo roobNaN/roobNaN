@@ -1,5 +1,1 @@
-- 👋 Hello, my name is Ruben.
-- 👀 I’m interested in Front-End Web Development.
-- 🌱 I’m currently learning React and node.js
-- 💞️ I’m looking to collaborate on web based applications
-- 📫 If you would like to reach me, you can email me @ ruben.sanchez4043@gmail.com
+Hello, my name is Ruben.
